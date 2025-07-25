@@ -1,0 +1,10 @@
+fastapi==0.96.0
+uvicorn==0.22.0
+SQLAlchemy==2.0.19
+pypiwin32==2.2.6
+python-dotenv==1.0.0
+PyJWT==2.6.0
+passlib==1.7.4
+pyscopg2-binary==2.9.5
+python-multipart==0.0.6
+pdenticon==2.1.0
